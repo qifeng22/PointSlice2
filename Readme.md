@@ -1,8 +1,8 @@
-# **Installation Guide**
+## **Installation Guide**
 
 This document provides a step-by-step guide to installing the required dependencies and setting up the environment for running the project.
 
-## **Requirements**
+### **Requirements**
 The code has been tested in the following environments:
 
 - **Operating System**: Linux (Ubuntu 14.04/16.04/18.04/20.04/21.04)
@@ -15,16 +15,6 @@ The code has been tested in the following environments:
   - `spconv v2.x` (latest version, install via `pip`)
 
 ---
-
-## **Installation Steps**
-
-### **1. Clone the Repository**
-Run the following command to clone the repository:
-
-```
-git clone https://github.com/open-mmlab/OpenPCDet.git
-cd OpenPCDet
-```
 
 #**Usage**
 The repositories offer a interesting 3d object detection method. 
