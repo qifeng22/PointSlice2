@@ -21,10 +21,10 @@ The code has been tested in the following environments:
 ### **1. Clone the Repository**
 Run the following command to clone the repository:
 
-```bash
+```
 git clone https://github.com/open-mmlab/OpenPCDet.git
 cd OpenPCDet
-
+```
 
 The repositories offer a interesting 3d object detection method. 
 Our code based on the Openpcdet and HEDNet, you can run this code by the following commmad
