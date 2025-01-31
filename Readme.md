@@ -1,4 +1,4 @@
-The repositories offer a interesting 3d object detection method. 
+The repositories offer an interesting 3D object detection method. You can use the following methods to utilize it.
 ## **Installation Guide**
 
 This document provides a step-by-step guide to installing the required dependencies and setting up the environment for running the project.
