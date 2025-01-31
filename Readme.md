@@ -15,7 +15,6 @@ The code has been tested in the following environments:
   - `spconv v1.2` for PyTorch 1.3+
   - `spconv v2.x` (latest version, install via `pip`)
 
----
 
 **Usage**
 Our code based on the Openpcdet and HEDNet, you can run this code by the following commmad
