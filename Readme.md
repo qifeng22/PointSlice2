@@ -1,4 +1,4 @@
-#Installation and usag
+
 
 The repositories offer a interesting 3d object detection method. 
 Our code based on the Openpcdet and HEDNet, you can run this code by the following commmad
