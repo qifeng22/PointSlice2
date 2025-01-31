@@ -1,3 +1,4 @@
+The repositories offer a interesting 3d object detection method. 
 ## **Installation Guide**
 
 This document provides a step-by-step guide to installing the required dependencies and setting up the environment for running the project.
@@ -16,8 +17,7 @@ The code has been tested in the following environments:
 
 ---
 
-#**Usage**
-The repositories offer a interesting 3d object detection method. 
+**Usage**
 Our code based on the Openpcdet and HEDNet, you can run this code by the following commmad
 ```
 bash scripts/dist_train.sh cfgs/pointslice/pointslice_1f_1x_waymo.yaml 8 --batch_size 16 --epoch 24 --workers=2
