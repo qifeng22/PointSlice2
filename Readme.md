@@ -1,3 +1,4 @@
+# PointSlice
 This repository contains the official implementation of the **PointSlice** model, offering an innovative **3D object detection method**. You can use the following approaches to utilize it.
 
 ## **Installation Guide**
