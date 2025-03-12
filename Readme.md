@@ -24,7 +24,8 @@ bash scripts/dist_train.sh cfgs/pointslice/pointslice_1f_1x_waymo.yaml 8 --batch
 ```
 ![image](https://github.com/qifeng22/PointSlice2/raw/main/waymo.png)
 ### nuScenes
-For nuScenes code, you can refer to \ref{https://github.com/qifeng22/PointSlice-nuscenes/tree/main}
+For nuScenes code, you can refer to [this GitHub repository](https://github.com/qifeng22/PointSlice-nuscenes/tree/main).
+
 
 
 
