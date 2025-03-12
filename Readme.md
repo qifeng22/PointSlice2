@@ -1,4 +1,5 @@
-The repositories offer an interesting 3D object detection method. You can use the following methods to utilize it.
+This repository contains the official implementation of the **PointSlice** model, offering an innovative **3D object detection method**. You can use the following approaches to utilize it.
+
 ## **Installation Guide**
 
 This document provides a step-by-step guide to installing the required dependencies and setting up the environment for running the project.
