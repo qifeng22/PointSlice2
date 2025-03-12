@@ -18,6 +18,7 @@ The code has been tested in the following environments:
 
 ## **Usage**
 Our code based on the Openpcdet and HEDNet, you can run this code by the following commmad
+# Waymo
 ```
 bash scripts/dist_train.sh cfgs/pointslice/pointslice_1f_1x_waymo.yaml 8 --batch_size 16 --epoch 24 --workers=2
 ```
