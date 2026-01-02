@@ -19,7 +19,7 @@ The code has been tested in the following environments:
 
 
 ## **Usage**
-Our code based on the Openpcdet and HEDNet, you can run this code by the following commmad
+Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). You can run the code using the following command:
 ### Waymo
 ```
 bash scripts/dist_train.sh cfgs/pointslice/pointslice_1f_1x_waymo.yaml 8 --batch_size 16 --epoch 24 --workers=2
