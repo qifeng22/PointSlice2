@@ -69,7 +69,7 @@ def convert_pkl_file_to_bin(result_dir, results=None):
 
 
 def waymo_fast_eval(bin_file):
-    eval_str = f'data/waymo/compute_detection_metrics_main {bin_file} data/waymo/gt.bin'
+    eval_str = f'../data/waymo/compute_detection_metrics_main {bin_file} ../data/waymo/gt.bin'
     ret_bytes = subprocess.check_output(eval_str, shell=True)
     ret_texts = ret_bytes.decode('utf-8')
 
