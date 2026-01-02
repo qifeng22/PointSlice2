@@ -48,6 +48,10 @@ Waymo Download Link: [Waymo](https://pan.baidu.com/s/1MwFcghZv5-RnVhafvxlS9Q?pwd
 ### Argoverse2
 <img width="1377" height="391" alt="image" src="https://github.com/user-attachments/assets/739b66a7-4d44-400c-8993-de86545590d6" />
 
+You can download the checkpoint from the link below:
+
+Download Link: [Argoverse2](https://pan.baidu.com/s/1EQ6q1kgGLl-5YgC3y6dFdw?pwd=w6re)
+
 
 ### nuScenes
 For nuScenes code, you can refer to [this GitHub repository](https://github.com/qifeng22/PointSlice-nuscenes/tree/main).
