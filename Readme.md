@@ -18,6 +18,11 @@ The code has been tested in the following environments:
   - `spconv v2.x` (latest version, install via `pip`)
 
 For detailed package versions, please see our [requirements.txt](requirements.txt).
+### **Install pcdet**
+Please install the `pcdet` library and its dependencies by running:
+
+```bash
+python setup.py develop
 
 
 
