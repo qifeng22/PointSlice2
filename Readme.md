@@ -43,7 +43,7 @@ python test.py --cfg_file cfgs/pointslice/pointslice_1f_1x_waymo.yaml --ckpt {yo
 ```
 We provide a pretrained model trained on the Waymo dataset. You can download the checkpoint (checkpoint_epoch_24.pth) from the link below:
 
-Download Link: (https://pan.baidu.com/s/1MwFcghZv5-RnVhafvxlS9Q?pwd=vw6s)
+Waymo Download Link: [Waymo](https://pan.baidu.com/s/1MwFcghZv5-RnVhafvxlS9Q?pwd=vw6s)
 
 ### Argoverse2
 <img width="1377" height="391" alt="image" src="https://github.com/user-attachments/assets/739b66a7-4d44-400c-8993-de86545590d6" />
