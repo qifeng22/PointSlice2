@@ -27,8 +27,6 @@ python setup.py develop
 
 
 ## **Usage**
-Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). 
-
 To begin, please follow the [HEDNet Getting Started Guide](https://github.com/zhanggang001/HEDNet/blob/main/docs/GETTING_STARTED.md) to download and prepare the dataset. **Note that this process requires significant disk space and time.**
 
 Once the data is ready, you can run the code using the following command:
@@ -39,6 +37,10 @@ bash scripts/dist_train.sh cfgs/pointslice/pointslice_1f_1x_waymo.yaml 8 --batch
 ![image](https://github.com/qifeng22/PointSlice2/raw/main/waymo.png)
 ### nuScenes
 For nuScenes code, you can refer to [this GitHub repository](https://github.com/qifeng22/PointSlice-nuscenes/tree/main).
+
+## **Acknowledgement**
+
+Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). We thank the authors for their open-source contribution.
 
 
 
