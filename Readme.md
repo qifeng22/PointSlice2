@@ -45,6 +45,10 @@ We provide a pretrained model trained on the Waymo dataset. You can download the
 
 Download Link: (https://pan.baidu.com/s/1MwFcghZv5-RnVhafvxlS9Q?pwd=vw6s)
 
+### Argoverse2
+<img width="1377" height="391" alt="image" src="https://github.com/user-attachments/assets/739b66a7-4d44-400c-8993-de86545590d6" />
+
+
 ### nuScenes
 For nuScenes code, you can refer to [this GitHub repository](https://github.com/qifeng22/PointSlice-nuscenes/tree/main).
 
