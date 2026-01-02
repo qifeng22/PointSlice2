@@ -35,6 +35,11 @@ Once the data is ready, you can run the code using the following command:
 bash scripts/dist_train.sh cfgs/pointslice/pointslice_1f_1x_waymo.yaml 8 --batch_size 16 --epoch 24 --workers=2
 ```
 ![image](https://github.com/qifeng22/PointSlice2/raw/main/waymo.png)
+You can evaluate the model's performance using the following command:
+
+```bash
+python test.py --cfg_file cfgs/pointslice/pointslice_1f_1x_waymo.yaml --ckpt {yourckpt.pth path} --batch_size 1
+```
 ### nuScenes
 For nuScenes code, you can refer to [this GitHub repository](https://github.com/qifeng22/PointSlice-nuscenes/tree/main).
 
