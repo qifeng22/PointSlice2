@@ -20,8 +20,7 @@ The code has been tested in the following environments:
 For detailed package versions, please see our [requirements.txt](requirements.txt).
 
 
-## **Usage**
-Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). You can run the code using the following command:
+
 ## **Usage**
 Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). 
 
