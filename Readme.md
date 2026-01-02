@@ -22,6 +22,12 @@ For detailed package versions, please see our [requirements.txt](requirements.tx
 
 ## **Usage**
 Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). You can run the code using the following command:
+## **Usage**
+Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). 
+
+To begin, please follow the [HEDNet Getting Started Guide](https://github.com/zhanggang001/HEDNet/blob/main/docs/GETTING_STARTED.md) to download and prepare the dataset. **Note that this process requires significant disk space and time.**
+
+Once the data is ready, you can run the code using the following command:
 ### Waymo
 ```
 bash scripts/dist_train.sh cfgs/pointslice/pointslice_1f_1x_waymo.yaml 8 --batch_size 16 --epoch 24 --workers=2
