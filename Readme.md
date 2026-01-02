@@ -17,6 +17,20 @@ The code has been tested in the following environments:
   - `spconv v1.2` for PyTorch 1.3+
   - `spconv v2.x` (latest version, install via `pip`)
 
+### **Requirements**
+The code has been tested in the following environments:
+
+- **Operating System**: Linux (Ubuntu 20.04)
+- **Python**: 3.6+
+- **PyTorch**: 1.1 or higher
+- **CUDA**: 9.0 or higher (PyTorch 1.3+ requires CUDA 9.2+)
+- **Sparse Convolution Library**: `spconv`
+  - `spconv v1.0` (commit **8da6f96**) for PyTorch 1.1
+  - `spconv v1.2` for PyTorch 1.3+
+  - `spconv v2.x` (latest version, install via `pip`)
+
+For detailed package versions, please see our [requirements.txt](requirements.txt).
+
 
 ## **Usage**
 Our code is based on [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) and [HEDNet](https://github.com/zhanggang001/HEDNet). You can run the code using the following command:
