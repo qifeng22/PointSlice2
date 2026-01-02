@@ -42,9 +42,9 @@ You can evaluate the model's performance using the following command:
 python test.py --cfg_file cfgs/pointslice/pointslice_1f_1x_waymo.yaml --ckpt {yourckpt.pth path} --batch_size 1
 ```
 We provide a pretrained model trained on the Waymo dataset. You can download the checkpoint (checkpoint_epoch_24.pth) from the link below:
+
 Download Link: (https://pan.baidu.com/s/1MwFcghZv5-RnVhafvxlS9Q?pwd=vw6s)
 
-Access Code: vw6s
 ### nuScenes
 For nuScenes code, you can refer to [this GitHub repository](https://github.com/qifeng22/PointSlice-nuscenes/tree/main).
 
